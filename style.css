@@ -1,0 +1,47 @@
+.icons i {
+    padding: 5%;
+
+}
+
+.icons {
+    width: 15%;
+
+}
+
+.main {
+    position: relative;
+    text-align: center;
+    color: white;
+}
+
+.centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 60px;
+    letter-spacing: 3px;
+}
+
+.row-1 {
+    display: inline;
+    margin-left: 5%;
+    overflow: hidden;
+    background-color: aqua;
+
+}
+
+.form input,
+textarea {
+    padding: 10px;
+    border: 1px solid;
+    margin: 2%;
+}
+
+iframe {
+    margin-left: 5%;
+}
+
+.card-2 img {
+    width: 18rem;
+}
